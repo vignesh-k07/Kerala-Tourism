@@ -374,7 +374,7 @@ form .form-control {
 .signup {
     position: relative;
     max-width: 800px;
-    height: 600px;
+    height: 700px;
 }
 
 .signin {
@@ -488,6 +488,13 @@ form .form-control {
     color: #bb36fd;
     left: 36px;
 }
+
+.myLeftCtn a {
+    color: #9C19E0;
+    font-weight: 600;
+
+}
+
 
 .butt_out {
     background: transparent;
