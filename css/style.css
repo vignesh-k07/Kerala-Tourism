@@ -180,85 +180,85 @@ section {
 
 
 #kasargod {
-    background-image: url("/img/kasargod.jpg");
+    background-image: url("../img/kasargod.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #kannur {
-    background-image: url("/img/kannur.jpg");
+    background-image: url("../img/kannur.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #kozhikode {
-    background-image: url("/img/kozhikode.jpg");
+    background-image: url("../img/kozhikode.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #wayanad {
-    background-image: url("/img/wayanad.jpg");
+    background-image: url("../img/wayanad.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #malapuram {
-    background-image: url("/img/malappuram.jpg");
+    background-image: url("../img/malappuram.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #palakkad {
-    background-image: url("/img/palakkad.jpg");
+    background-image: url("../img/palakkad.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #thrissur {
-    background-image: url("/img/thrissur.jpg");
+    background-image: url("../img/thrissur.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #ernakulam {
-    background-image: url("/img/ernakulam.jpg");
+    background-image: url("../img/ernakulam.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #idukki {
-    background-image: url("/img/idukki.jpg");
+    background-image: url("../img/idukki.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #pathanamthitta {
-    background-image: url("/img/pathanamthitta.jpg");
+    background-image: url("../img/pathanamthitta.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #kottayam {
-    background-image: url("/img/kottayam.jpg");
+    background-image: url("../img/kottayam.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #alappuzha {
-    background-image: url("/img/alapuzha.jpg");
+    background-image: url("../img/alapuzha.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #kollam {
-    background-image: url("/img/kollam.jpg");
+    background-image: url("../img/kollam.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #thiruvananthapuram {
-    background-image: url("/img/thiruvananthapuram.jpg");
+    background-image: url("../img/thiruvananthapuram.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -275,7 +275,7 @@ section {
 }
 
 .col-img {
-    background-image: url("/img/plan-your-trip.jpg");
+    background-image: url("../img/plan-your-trip.jpg");
     background-position: center;
     background-size: cover;
     min-height: 500px;
