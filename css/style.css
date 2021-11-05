@@ -386,7 +386,7 @@ form .form-control {
 
 .myRightCtn {
     position: relative;
-    background-image: url("/img/kathakali.jpg");
+    background-image: url("../img/kathakali.jpg");
     background-position: center;
     background-size: cover;
     border-radius: 25px;
